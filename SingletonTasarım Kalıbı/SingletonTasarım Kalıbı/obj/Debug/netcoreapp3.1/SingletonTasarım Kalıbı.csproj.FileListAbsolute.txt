@@ -1,0 +1,15 @@
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\bin\Debug\netcoreapp3.1\SingletonTasarım Kalıbı.exe
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\bin\Debug\netcoreapp3.1\SingletonTasarım Kalıbı.deps.json
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\bin\Debug\netcoreapp3.1\SingletonTasarım Kalıbı.runtimeconfig.json
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\bin\Debug\netcoreapp3.1\SingletonTasarım Kalıbı.runtimeconfig.dev.json
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\bin\Debug\netcoreapp3.1\SingletonTasarım Kalıbı.dll
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\bin\Debug\netcoreapp3.1\SingletonTasarım Kalıbı.pdb
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\obj\Debug\netcoreapp3.1\SingletonTasarım Kalıbı.csprojAssemblyReference.cache
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\obj\Debug\netcoreapp3.1\SingletonTasarım_Kalıbı.Form1.resources
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\obj\Debug\netcoreapp3.1\SingletonTasarım Kalıbı.csproj.GenerateResource.cache
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\obj\Debug\netcoreapp3.1\SingletonTasarım Kalıbı.AssemblyInfoInputs.cache
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\obj\Debug\netcoreapp3.1\SingletonTasarım Kalıbı.AssemblyInfo.cs
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\obj\Debug\netcoreapp3.1\SingletonTasarım Kalıbı.csproj.CoreCompileInputs.cache
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\obj\Debug\netcoreapp3.1\SingletonTasarım Kalıbı.dll
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\obj\Debug\netcoreapp3.1\SingletonTasarım Kalıbı.pdb
+C:\Users\umutr\source\repos\SingletonTasarım Kalıbı\SingletonTasarım Kalıbı\obj\Debug\netcoreapp3.1\SingletonTasarım Kalıbı.genruntimeconfig.cache
